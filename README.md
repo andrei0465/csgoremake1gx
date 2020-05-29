@@ -4,6 +4,7 @@ CSGO Remake created by Nubo (SMA source was restored and improved)
 # Improvements
 1. Added new chat system which does not require other fixchat plugins. (the living can see what the dead write and vice versa)
 2. Changed the save system for natives because the old one did not save after the map change.
+3. Other small things that can affect the future of mod.
 
 # Download link
 You can download from <a href="https://github.com/kuamquat940/csgoremake/releases">releases</a>.
