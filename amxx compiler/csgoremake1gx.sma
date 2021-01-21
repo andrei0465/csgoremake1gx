@@ -11,7 +11,7 @@
 
 #define PLUGIN "CSGO Remake 1Gx"
 #define VERSION "v0.2-dev"
-#define AUTHOR "Kuamquat"
+#define AUTHOR "Amo Viu"
 
 #pragma compress 1
 #pragma semicolon 1
