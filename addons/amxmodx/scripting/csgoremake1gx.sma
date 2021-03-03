@@ -11,7 +11,7 @@
 
 #define PLUGIN "CSGO Remake 1Gx"
 #define VERSION "v0.2-dev"
-#define AUTHOR "Amo Viu"
+#define AUTHOR "Kuamquat"
 
 #pragma compress 1
 #pragma semicolon 1
@@ -818,7 +818,7 @@ _LicenseChecker()
 		strtok(netaddress, left, 63, right, 63, ':', 0);
 		//if (!equali(left, "127.0.0.1", 0))
 		//{
-		//	set_fail_state("[CSGO Remake] This IP is not licensed. Contact Amo Viu at amoviu99@gmail.com to renew the license!");
+		//	set_fail_state("[CSGO Remake] This IP is not licensed. Contact Kuamquat at kuamquat940@gmail.com to renew the license!");
 		//	return 0;
 		//}
 		UnixToTime(TimeStamp, iYear, iMonth, iDay, iHour, iMinute, iSecond);
@@ -832,7 +832,7 @@ _LicenseChecker()
 	else
 	{
 		UnixToTime(TimeStamp, iYear, iMonth, iDay, iHour, iMinute, iSecond);
-		log_amx("[CSGO Remake] This license has expired at %d.%d.%d . Contact Amo Viu at amoviu99@gmail.com to renew the license!", iDay, iMonth, iYear);
+		log_amx("[CSGO Remake] This license has expired at %d.%d.%d . Contact Kuamquat at kuamquat940@gmail.com to renew the license!", iDay, iMonth, iYear);
 		return _Fail();
 	}
 	return 0;
