@@ -1,3 +1,5 @@
+# No longer maintained, upgraded to <a href="https://github.com/andrei0465/csgorevolver">CS:GO Revolver Mod</a>
+
 ![alt text](https://i.imgur.com/srecEyR.jpg)
 ![alt text](https://i.imgur.com/RUWoYXR.jpg)
 ![alt text](https://i.imgur.com/9cxhlMC.jpg)
