@@ -1,11 +1,7 @@
-# No longer maintained, upgraded to <a href="https://github.com/andrei0465/csgorevolver">CS:GO Revolver Mod</a>
-
-![alt text](https://i.imgur.com/srecEyR.jpg)
-![alt text](https://i.imgur.com/RUWoYXR.jpg)
-![alt text](https://i.imgur.com/9cxhlMC.jpg)
-![alt text](https://i.imgur.com/8zlZkTM.jpg)
-![alt text](https://i.imgur.com/Z0maBTr.jpg)
-![alt text](https://i.imgur.com/DJJMSZY.jpg)
+| ![](https://i.imgur.com/srecEyR.jpg) | ![alt text](https://i.imgur.com/RUWoYXR.jpg) |
+| ------------- | ------------- |
+| ![](https://i.imgur.com/9cxhlMC.jpg) | ![](https://i.imgur.com/8zlZkTM.jpg) |
+| ![](https://i.imgur.com/Z0maBTr.jpg) | ![](https://i.imgur.com/DJJMSZY.jpg) |
 
 # CSGO Remake 1Gx
 CSGO Remake 1Gx created by Nubo for CS1.6. (SMA source was restored and improved)
